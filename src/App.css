@@ -1,3 +1,22 @@
+.gameNum{
+  display:inline-flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+
+.gameNum1{
+  display:inline-flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-left: 750px;
+}
+
+
 .App {
   text-align: center;
 }
